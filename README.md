@@ -26,6 +26,5 @@ You own the mall and want to understand the customers like who can be easily con
 
 ## Authors
 
-- [@ForskyOnly](https://github.com/Slemdev)
 - [@neevaiti](https://github.com/neevaiti)
 
